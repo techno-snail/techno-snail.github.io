@@ -1,17 +1,23 @@
 body {
-    background-color: darkslategray;
+    background-color: #333339;
     color: whitesmoke;
     font-family: monospace;
     font-size:16px;
+    margin:0;
+    padding:0;
 }
 
 #container {
+    padding:0;
     width:100%;
 }
 
 #header {
-    background-color: black;
+    background-color: #171719;
     font-size: 24px;
+    margin-bottom:20px;
+    padding:20px 40px;
+    width:100%;
 }
 
 #content {
