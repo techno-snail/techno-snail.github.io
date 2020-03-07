@@ -1,2 +1,2 @@
 # techno-snail.github.io
-I Am Techno Snail
+I am Techno Snail
